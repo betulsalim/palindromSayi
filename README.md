@@ -1,1 +1,2 @@
 # palindromSayi
+www.patika.dev
